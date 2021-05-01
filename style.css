@@ -1,0 +1,87 @@
+#loul{
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+}
+#headera{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(147, 184, 252);
+}
+#content{
+    margin-top: 20px;
+    width: 100%;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+#canal0{
+    height: 400px;
+    width: 60%;
+    background-color:rgb(255, 255, 255);
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+#canal{
+    height: 600px;
+    width: 70%;
+    background-color:rgb(255, 255, 255);
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+#canal2{
+    height: 230px;
+    width: 50%;
+    background-color:rgb(255, 255, 255);
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+#canal3{
+    height: 700px;
+    width: 50%;
+    background-color:rgb(255, 255, 255);
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+
+#welcome{
+    font-size: 30px;
+    text-align: center;
+    line-height: 70px;
+    font-family: 'Krona One', sans-serif;
+}
+#into{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(221, 204, 235);
+    margin-top: 20px;
+    font-family: 'Almarai', sans-serif;
+    font-size: 20px;
+}
+#can{
+    font-family: cursive;
+    background: linear-gradient(to right,purple,pink);
+    color: white;
+    font-size: 20px;
+}
+#kaleb{
+    display: flex;
+    justify-content: space-between;
+}
+@media(max-width:900px){
+    #tas{
+        display: none;
+    }
+    #can{
+        font-family: cursive;
+        background: linear-gradient(to right,purple,pink);
+        color: white;
+        font-size: 14px;
+}
+}
