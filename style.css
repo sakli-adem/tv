@@ -56,6 +56,12 @@
     line-height: 70px;
     font-family: 'Krona One', sans-serif;
 }
+#welcome1{
+    font-size: 30px;
+    text-align: center;
+    line-height: 70px;
+    font-family: 'Krona One', sans-serif;
+}
 #into{
     height: 400px;
     width: 100%;
@@ -72,6 +78,25 @@
 }
 #kaleb{
     display: flex;
+    justify-content: space-between;
+}
+#jdid{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    margin-left: 15px;
+}
+#jdidkaleb{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: white;
+    height: 50vh;
+}
+#cana{
+    height: 300px;
+    width: 100%;
+    background-color:rgb(255, 255, 255);
     justify-content: space-between;
 }
 @media(max-width:900px){
@@ -96,4 +121,13 @@
 #canal{
     width: 100%;
 }
+#welcome1{
+    font-size: 20px;
+    text-align: center;
+    line-height: 70px;
+    font-family: 'Krona One', sans-serif;
 }
+
+
+}
+
