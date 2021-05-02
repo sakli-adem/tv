@@ -126,9 +126,14 @@
     font-size: 20px;
     text-align: center;
     line-height: 70px;
-    font-family: 'Krona One', sans-serif;
+    font-family: 'Krona One', sans-serif;}
 }
 
-
+@media(max-width:600px){
+    #welcome1{
+        font-size: 15px;
+        text-align: center;
+        line-height: 70px;
+        font-family: 'Krona One', sans-serif }
 }
 
